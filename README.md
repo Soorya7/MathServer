@@ -36,7 +36,9 @@ Publish the website in the given URL.
 
 
 ## HOMEPAGE:
+![WhatsApp Image 2023-11-15 at 22 00 19_0af19433](https://github.com/Soorya7/MathServer/assets/105735689/124e566f-f1fc-4311-b955-3c792239846e)
 
+![WhatsApp Image 2023-11-15 at 22 01 56_b06baa34](https://github.com/Soorya7/MathServer/assets/105735689/118c9349-fb9d-41f4-8e64-1f1551c1480a)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
